@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"The Enchanted Forest",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"The Secret Garden",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Journey to the Stars",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"The Haunted Castle",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Mysteries of the Ocean",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"The Time Traveler",
+        "price":"0",
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1685510123.1721786906&semt=ais_hybrid"
+    }
+]
